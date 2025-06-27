@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/cmakeLearn1.dir/main.c.o -o cmakeLearn1  src/libfizzBuzz.a 
