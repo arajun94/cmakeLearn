@@ -7,5 +7,5 @@ target_sources(fizzBuzz
 
 target_include_directories(fizzBuzz
     INTERFACE
-        ./
+        ${CMAKE_CURRENT_LIST_DIR}
 )

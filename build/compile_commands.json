@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/arajun/dev/cmakeLearn/build",
+  "command": "/usr/bin/gcc -I/home/arajun/dev/cmakeLearn/1/src -O3 -DNDEBUG -o CMakeFiles/cmakeLearn1.dir/main.c.o -c /home/arajun/dev/cmakeLearn/1/main.c",
+  "file": "/home/arajun/dev/cmakeLearn/1/main.c"
+},
+{
+  "directory": "/home/arajun/dev/cmakeLearn/build",
+  "command": "/usr/bin/gcc -O3 -DNDEBUG -o src/CMakeFiles/fizzBuzz.dir/fizzBuzz.c.o -c /home/arajun/dev/cmakeLearn/1/src/fizzBuzz.c",
+  "file": "/home/arajun/dev/cmakeLearn/1/src/fizzBuzz.c"
+}
+]
